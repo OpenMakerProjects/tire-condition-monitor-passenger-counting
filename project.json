@@ -1,0 +1,21 @@
+{
+  "id": 787,
+  "title": "Tire Condition Monitor Passenger Counting",
+  "repository_slug": "tire-condition-monitor-passenger-counting",
+  "category": "Smart Vehicles",
+  "platform": "Raspberry Pi",
+  "platform_family": "python",
+  "difficulty": "Intermediate",
+  "estimated_hours": 28,
+  "connectivity": "BLE",
+  "components": [
+    "temperature sensor",
+    "ultrasonic sensors",
+    "GPS module"
+  ],
+  "scope": "Build a smart vehicles prototype that uses temperature sensor, ultrasonic sensors, GPS module to count boarding and exiting passengers. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Passenger Counting demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "src/main.py",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
